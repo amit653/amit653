@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amit653
 - 👀 I’m interested in ... Distributed Database and Data Engineering.
-- 🌱 I’m currently learning ... Go 
-- 💞️ I’m looking to collaborate on ...Distributed Database, Go and Machine Learning
+- 🌱 I’m currently learning ... Go, NextGen Databases. 
+- 💞️ I’m looking to collaborate on ...Distributed Database, Python and Machine Learning
 - 📫 How to reach me ... amit653@gmail.com
 
 <!---
